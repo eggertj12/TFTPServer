@@ -5,7 +5,12 @@ Verkefni í TSAM
 
 Takmarkaður TFTP þjónn, skrifaður í python
 
-----------
+## Kröfur
 
-Til að keyra
-`python tftp_server.py <port> <data directory>`
+Python 2.7.x
+
+## Til að keyra:
+
+```
+python tftp_server.py <port> <data directory>
+```
