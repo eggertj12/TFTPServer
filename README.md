@@ -7,7 +7,7 @@ Takmarkaður TFTP þjónn, skrifaður í python
 
 ## Kröfur
 
-Python 2.7.x
+ - Python 2.7.x
 
 ## Til að keyra:
 
